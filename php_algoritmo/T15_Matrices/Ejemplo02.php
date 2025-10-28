@@ -1,4 +1,5 @@
 <?php
+//Buscar una matriz 
 $personas = array (
     array("nombre" => "Juan", "edad" => 25),
     array("nombre"=> "Ana", "edad" => 30)
